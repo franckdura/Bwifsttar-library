@@ -80,7 +80,7 @@ Others files (which are not described here) can be understood thanks to Notebook
 
 ## License
 
-IFSTTAR, **@Copyrights, all rights reserved**
+IFSTTAR
 
 @authors
 
