@@ -1,0 +1,11 @@
+bokeh
+numpy
+scipy
+patsy
+sklearn
+matplotlib
+pandas
+pandas_profiling
+nevergrad
+tensorflow
+deepxde
