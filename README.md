@@ -1,4 +1,6 @@
-# Bwifsttar
+# Bwifsttar library
+
+**IFSTTAR property**
 
 Bwifsttar is a python library based on the physic model BWIM (bridge-weighing-in-motion) which functions are mainly used for :
 
