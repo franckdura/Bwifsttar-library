@@ -1,6 +1,6 @@
 # Bwifsttar
 
-Bwifsttar is a python library based on the physic model BWIM (bridge-weighing-in-motion) whose functions are mainly used for :
+Bwifsttar is a python library based on the physic model BWIM (bridge-weighing-in-motion) which functions are mainly used for :
 
     - Calibration (calculation of the line of influence of a bridge from the measured signals of the heavyweights)
     
