@@ -86,7 +86,7 @@ IFSTTAR
 
 @authors
 
-Franck Deturche Dura (intern)
+Franck Dura (intern)
 
 Franziska Schmidt (IFSTTAR tutor)
 
