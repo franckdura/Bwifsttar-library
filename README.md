@@ -81,9 +81,7 @@ w = estimation_mt(truck, h) #weighing in motion from LI
 Others files (which are not described here) can be understood thanks to Notebooks. Here were the main ones.
 
 ## License
-**Copyrights 2023, all rights reserved**
-
-IFSTTAR
+**Copyrights 2023, all rights reserved IFSTTAR**
 
 @authors
 
